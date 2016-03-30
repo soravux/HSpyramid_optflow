@@ -20,7 +20,7 @@ function plotFlow(u, v, imgOriginal, rSize, scale)
 % October 2008
 % Rev: Jan 2009
 
-figure();
+%figure();
 
 if nargin>2
     if sum(sum(imgOriginal))~=0
